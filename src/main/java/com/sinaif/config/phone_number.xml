@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phone>
+    <!-- 移动: 134 135 136 137 138 139 147 148 150 151 152 157 158 159 172 178 182 183 184 187 188 198 -->
+    <number id="134">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="135">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="136">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="137">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="138">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="139">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="147">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="148">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="150">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="151">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="152">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="157">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="158">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="159">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="172">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="178">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="182">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="183">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="184">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="187">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="188">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="198">
+        <telecom>cmcc</telecom>
+    </number>
+
+    <!-- 联通: 130 131 132 145 146 155 156 166 171 175 176 185 186 -->
+    <number id="130">
+        <telecom>unicom</telecom>
+    </number>
+    <number id="131">
+        <telecom>unicom</telecom>
+    </number>
+    <number id="132">
+        <telecom>unicom</telecom>
+    </number>
+    <number id="145">
+        <telecom>unicom</telecom>
+    </number>
+    <number id="146">
+        <telecom>unicom</telecom>
+    </number>
+    <number id="155">
+        <telecom>unicom</telecom>
+    </number>
+    <number id="156">
+        <telecom>unicom</telecom>
+    </number>
+    <number id="166">
+        <telecom>unicom</telecom>
+    </number>
+    <number id="171">
+        <telecom>unicom</telecom>
+    </number>
+    <number id="175">
+        <telecom>unicom</telecom>
+    </number>
+    <number id="176">
+        <telecom>unicom</telecom>
+    </number>
+    <number id="185">
+        <telecom>unicom</telecom>
+    </number>
+    <number id="186">
+        <telecom>unicom</telecom>
+    </number>
+
+    <!-- 电信: 133 149 153 173 174 177 180 181 189 199 -->
+    <number id="133">
+        <telecom>telcom</telecom>
+    </number>
+    <number id="149">
+        <telecom>telcom</telecom>
+    </number>
+    <number id="153">
+        <telecom>telcom</telecom>
+    </number>
+    <number id="173">
+        <telecom>telcom</telecom>
+    </number>
+    <number id="174">
+        <telecom>telcom</telecom>
+    </number>
+    <number id="177">
+        <telecom>telcom</telecom>
+    </number>
+    <number id="180">
+        <telecom>telcom</telecom>
+    </number>
+    <number id="181">
+        <telecom>telcom</telecom>
+    </number>
+    <number id="189">
+        <telecom>telcom</telecom>
+    </number>
+    <number id="199">
+        <telecom>telcom</telecom>
+    </number>
+
+    <!-- 虚拟运营商170号段 移动:1703、1705、1706 联通:1704、1707、1708、1709 电信:1700、1701、1702 -->
+    <number id="1703">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="1705">
+        <telecom>cmcc</telecom>
+    </number>
+    <number id="1706">
+        <telecom>cmcc</telecom>
+    </number>
+
+    <number id="1704">
+        <telecom>unicom</telecom>
+    </number>
+    <number id="1707">
+        <telecom>unicom</telecom>
+    </number>
+    <number id="1708">
+        <telecom>unicom</telecom>
+    </number>
+    <number id="1709">
+        <telecom>unicom</telecom>
+    </number>
+
+    <number id="1700">
+        <telecom>telcom</telecom>
+    </number>
+    <number id="1701">
+        <telecom>telcom</telecom>
+    </number>
+    <number id="1702">
+        <telecom>telcom</telecom>
+    </number>
+
+</phone>
